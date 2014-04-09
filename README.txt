@@ -2,8 +2,7 @@ ROMANCE FOR GUITAR
 ===================
 
 Arrangement for piano of a piece for guitar by an unknown author (probably Fernando Sor, 1778-1839), made famous by the interpretation of Narciso Yepes in the soundtrack of the french movie Jeux Interdits (Forbidden Games).
-
-Here is an interpretation of this arrangement:
+Here is an interpretation_ of this arrangement.
 
 
 
@@ -21,3 +20,4 @@ Enjoy !
 
 
 .. _LilyPond : http://www.lilypond.org/index.fr.html
+.. _interpretation : https://www.youtube.com/watch?v=pxIIHJuqDN0
